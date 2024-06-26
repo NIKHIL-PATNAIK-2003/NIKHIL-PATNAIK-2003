@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **patnaiknikhil2003@gmail.com**
 
-<img align="right" alt="coding" width="400' src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" >
+<img align="right" alt="coding" width="400' src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"/>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XRWQt-sY8FrzN7052RW-RZB2ptiS5Nmu/view?usp=drive_link](https://drive.google.com/file/d/1XRWQt-sY8FrzN7052RW-RZB2ptiS5Nmu/view?usp=drive_link)
 
