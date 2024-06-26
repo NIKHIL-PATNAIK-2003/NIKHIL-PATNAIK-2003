@@ -7,10 +7,13 @@
 
 - 📫 How to reach me **patnaiknikhil2003@gmail.com**
 
+<img align="right" alt="coding" width="400' src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" >
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XRWQt-sY8FrzN7052RW-RZB2ptiS5Nmu/view?usp=drive_link](https://drive.google.com/file/d/1XRWQt-sY8FrzN7052RW-RZB2ptiS5Nmu/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/nikhil-patnaik-643ba0236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-patnaik-643ba0236" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
