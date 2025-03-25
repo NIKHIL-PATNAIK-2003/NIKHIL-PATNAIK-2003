@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm NIKHIL PATNAIK</h1>
-<h3 align="center">A passionate Web Developer with Blockchain Specialization from India</h3>
+<h3 align="center">A passionate Web Developer with Machine Learning Specialization from India</h3>
 
-- 🔭 I’m currently working on **change detection**
+- 🔭 I’m ready to work in **Web development field**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **patnaiknikhil2003@gmail.com**
 
