@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Web Developer with Machine Learning Specialization from India</h3>
 
 - 🔯 I’m ready to work in **Web development field**
+
 - 🌱 I’m currently learning **Generative AI**
+
 - 💎 Hackathon Achievements:
   - 🏆 **Smart India Hackathon 2024 Finalist**
     - Among 300+ teams and 1,800 brilliant minds, made it to the Top 5
